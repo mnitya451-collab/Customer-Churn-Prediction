@@ -62,7 +62,3 @@ Customer churn prediction helps businesses identify customers likely to leave so
 - `churn_model.pkl` — Saved Logistic Regression model
 - `scaler.pkl` — Saved StandardScaler
 - `README.md` — Project documentation
-
-## 👤 Author
-- **GitHub:** github.com/yourusername
-- **LinkedIn:** linkedin.com/in/yourusername
